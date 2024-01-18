@@ -1,2 +1,2 @@
 # CapstoneProject1_AL
-CapstoneProject1_WebDevelopmentCourse2023
+WebDevelopmentCourse2023 _ CapstoneProject1
